@@ -11,4 +11,4 @@ LED Strip: https://www.amazon.de/dp/B09N992SZC?ref_=ppx_hzsearch_conn_dt_b_fed_a
 
 
 
-3D-Modell: 
+3D-Modell: https://makerworld.com/de/models/3049717-drachenskulptur-mit-leuchteffekt#profileId-3430689
